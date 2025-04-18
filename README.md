@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2024 passed out graduate in BTech in CSE-AIML<br>I live in Hyderabad<br>I am currently learning Django<br>I am also working on some projects for building my portfolio.<br>This is my Github Profile<br>Here you can find out some of my projects repos
+I'm a 2024 passed out graduate in BTech in CSE-AIML<br>I live in Hyderabad<br>I am currently Working on Kubernetes, AWS Cloud and FASTAPI<br>I am also working on some projects for building my portfolio.<br>This is my Github Profile<br>Here you can find out some of my projects repos
 
 
 ## 🌐 Socials:
